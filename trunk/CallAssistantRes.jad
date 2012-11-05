@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: CallAssistantRes
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 6296
+RIM-COD-Creation-Time: 1293895143
+MIDlet-Jar-URL: CallAssistantRes.jar
+RIM-COD-URL: CallAssistantRes.cod
+RIM-Library-Flags: 2
+RIM-COD-SHA1: 91 b1 64 c5 b6 e5 f0 5f 08 68 6e 7f 80 53 77 d7 7a 37 a6 da
+RIM-COD-Size: 3580
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.3.0
+MIDlet-Name: CallAssistantRes
+MIDlet-Description: BBDEV.ORG
+MIDlet-Vendor: BBDEV.ORG
+MicroEdition-Profile: MIDP-2.0

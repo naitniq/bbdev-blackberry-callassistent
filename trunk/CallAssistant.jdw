@@ -1,0 +1,29 @@
+## RIM Java Development Environment
+# RIM Workspace file
+[BuildConfigurations
+Debug
+Release
+]
+DependenciesInWorkspace=0
+[ImplicitRules
+]
+[Imports
+<runtime>
+]
+[Projects
+CallAssistantLibrary.jdp
+CallAssistantRes.jdp
+FindLibrary.jdp
+FindLocation.jdp
+IpcallLibrary.jdp
+SearchLocation.jdp
+]
+[ReleaseActiveProjects
+CallAssistantLibrary.jdp
+FindLibrary.jdp
+FindLocation.jdp
+IpcallLibrary.jdp
+SearchLocation.jdp
+]
+VendorOverride=BBDEV.ORG
+VersionOverride=1.4.7

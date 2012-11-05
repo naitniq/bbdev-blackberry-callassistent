@@ -1,0 +1,30 @@
+<loader version="1.0">
+
+	<application id="FindLocation">
+		<name >
+			FindLocation
+		</name>
+		<description >
+			BBDEV FindLocation 2008
+		</description>
+		<version >
+			1.2.2
+		</version>
+		<vendor>
+			BBDEV
+		</vendor>
+		<copyright >
+			Copyright(c) 2008 bbdev.org
+		</copyright>
+		<fileset Java="1.24">
+			<directory >
+				
+			</directory>
+			<files >
+				FindLocation.cod
+				FindLibrary.cod
+			</files>
+		</fileset>
+	</application>
+
+</loader>

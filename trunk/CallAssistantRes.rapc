@@ -1,0 +1,9 @@
+MIDlet-Name: CallAssistantRes
+MIDlet-Version: 1.4.7
+MIDlet-Vendor: BBDEV.ORG
+MIDlet-Description: BBDEV.ORG
+MIDlet-Jar-URL: CallAssistantRes.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+RIM-Library-Flags: 2

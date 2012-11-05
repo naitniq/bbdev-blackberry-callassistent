@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.3.0
+MIDlet-Jar-Size: 397127
+RIM-COD-URL-4: FindLibrary-4.cod
+RIM-COD-SHA1-4: 63 55 c9 d0 64 5f 8c 2b 97 cc 07 45 7a 49 74 d8 b8 3f 49 6b
+RIM-COD-URL-3: FindLibrary-3.cod
+RIM-COD-URL-2: FindLibrary-2.cod
+RIM-COD-SHA1-3: c5 f8 7a 90 12 bf 6a e9 80 47 e7 56 71 cc cf 6b 26 1a b2 ab
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: FindLibrary.jar
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-1: FindLibrary-1.cod
+RIM-COD-SHA1-2: c3 22 be 41 33 b3 b1 50 89 55 1a 17 e9 ba 16 27 72 23 dd 10
+RIM-COD-Size-4: 18404
+RIM-COD-SHA1-1: b1 9e 10 4e 8d 7c 1f 25 ec 8b b5 b1 f2 27 7a 66 34 a3 85 a3
+RIM-COD-Size-3: 50012
+RIM-COD-Size-2: 50012
+RIM-COD-Module-Name: FindLibrary
+RIM-COD-Size-1: 50012
+RIM-COD-Size: 49284
+MIDlet-Name: FindLibrary
+RIM-COD-Creation-Time: 1293892079
+RIM-COD-URL: FindLibrary.cod
+MIDlet-Description: BBDEV.ORG
+RIM-Library-Flags: 2
+RIM-COD-SHA1: 0e 22 d2 4a 3f 5b 1a 38 fa aa ea d9 e7 6f e0 d4 13 27 cc d1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BBDEV.ORG

@@ -1,0 +1,122 @@
+<loader version="1.0">
+	<application id="CallAssistant">
+		<name >
+			CallAssistant
+		</name>
+		<description >
+			Call Assistant V1.47
+		</description>
+		<version >
+			1.47
+		</version>
+		<vendor >
+			BBDEV.ORG
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 BBDEV.ORG
+		</copyright>
+		
+		<application id="CallAssistant.CallAssistant">
+			<name >
+				CallAssistant
+			</name>
+			<description >
+				CallAssistant
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					CallAssistant.cod
+				</files>
+			</fileset>
+			<requires id="CallAssistant.CallAssistantRes"/>
+			<requires id="CallAssistant.CallAssistantLibrary"/>
+			<requires id="CallAssistant.FindLibrary"/>
+			<requires id="CallAssistant.IpcallLibrary"/>
+	    </application>
+		
+		<application id="CallAssistant.CallAssistantLibrary">
+			<name >
+				CallAssistantLibrary
+			</name>
+			<description >
+				CallAssistantLibrary
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					CallAssistantLibrary.cod
+				</files>
+			</fileset>
+			<requires id="CallAssistant.CallAssistantRes"/>
+			<requires id="CallAssistant.FindLibrary"/>
+	    </application>
+	    
+	   <application id="CallAssistant.IpcallLibrary">
+			<name >
+				IpcallLibrary
+			</name>
+			<description >
+				IpcallLibrary
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					IpcallLibrary.cod
+				</files>
+			</fileset>
+			<requires id="CallAssistant.CallAssistantRes"/>
+			<requires id="CallAssistant.CallAssistantLibrary"/>
+	    </application> 
+	    
+		<application id="CallAssistant.CallAssistantRes">
+			<name >
+				CallAssistantRes
+			</name>
+			<description >
+				CallAssistantRes
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					CallAssistantRes.cod
+				</files>
+			</fileset>
+	    </application>
+	    
+		<application id="CallAssistant.FindLibrary">
+			<name >
+				FindLibrary
+			</name>
+			<description >
+				FindLibrary
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					FindLibrary.cod
+				</files>
+			</fileset>
+	    </application>
+
+		<application id="CallAssistant.SearchLocation">
+			<name >
+				SearchLocation
+			</name>
+			<description >
+				SearchLocation
+			</description>
+	
+			<fileset Java="1.0">
+				<files >
+					SearchLocation.cod
+				</files>
+			</fileset>
+			<requires id="CallAssistant.CallAssistantRes"/>
+			<requires id="CallAssistant.CallAssistantLibrary"/>
+			<requires id="CallAssistant.FindLibrary"/>
+	    </application>
+
+	</application>
+
+</loader>
