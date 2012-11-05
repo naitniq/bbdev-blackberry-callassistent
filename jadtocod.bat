@@ -1,0 +1,1 @@
+E:\DevelopTools\Resear~1\BlackB~1\bin\rapc import="E:\DevelopTools\Research In Motion\BlackBerry JDE 4.3.0\lib\net_rim_api.jar" codename=FindLocation -midlet jad=FindLocation.jad FindLocation.jar 

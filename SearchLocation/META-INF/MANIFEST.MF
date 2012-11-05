@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: BBDEV.ORG
+MIDlet-Version: 1.4.5
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+MIDlet-Jar-URL: SearchLocation.jar
+MIDlet-Name: SearchLocation
+MIDlet-Jar-Size: 0
+RIM-MIDlet-Flags-1: 0
+RIM-MIDlet-NameResourceId-1: 0
+MIDlet-1: SearchLocation,res/package_network.png,
+MicroEdition-Configuration: CLDC-1.1
+RIM-MIDlet-NameResourceBundle-1: com.callasst.res.CallAssistant
+MIDlet-Description: BBDEV.ORG
+MicroEdition-Profile: MIDP-2.0
+

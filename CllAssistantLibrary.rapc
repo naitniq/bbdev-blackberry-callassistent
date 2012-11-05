@@ -1,0 +1,9 @@
+MIDlet-Name: CllAssistantLibrary
+MIDlet-Version: 1.3.0
+MIDlet-Vendor: BBDEV.ORG
+MIDlet-Description: BBDEV.ORG
+MIDlet-Jar-URL: CllAssistantLibrary.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+RIM-Library-Flags: 2
